@@ -9,3 +9,15 @@ playstation4.sony.akadns.net
 theia.dl.playstation.net
 tmdb.np.dl.playstation.net
 gs-sec.ww.np.dl.playstation.net
+dsa01.ps4.update.playstation.net
+dcn01.ps4.update.playstation.net
+djp01.ps4.update.playstation.net
+dus01.ps4.update.playstation.net
+duk01.ps4.update.playstation.net
+uef.np.dl.playstation.net
+gst.prod.dl.playstation.net
+dcn01.ps5.update.playstation.net
+djp01.ps5.update.playstation.net
+dus01.ps5.update.playstation.net
+duk01.ps5.update.playstation.net
+dsa01.ps5.update.playstation.net
